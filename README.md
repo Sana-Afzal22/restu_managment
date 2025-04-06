@@ -1,1 +1,1 @@
-# restu_managment
+code of resturent management system in c++ usin differnet function
